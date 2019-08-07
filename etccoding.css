@@ -1,0 +1,71 @@
+h2 {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h1 {
+    color:red;
+    text-align: center;
+    
+}
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: yellowgreen;
+}
+.first {
+    font-weight: bold;
+}
+.done {
+    text-decoration: line-through;
+}
+.third {
+    color: blue;
+}
+#html{
+    text-decoration: line-through;
+}
+#js{
+
+}
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a.uppercase {
+    text-transform: uppercase;
+}
+#heading {
+    text-shadow: 1px 1px red;
+    color: rgb(255, 80, 80);
+}
+.mydiv{
+    background-color:lightblue;
+    width:50%;
+    height: 80%;
+    box-shadow: 2px 2px 3px lightseagreen;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+.div2{
+    background-color:lightseagreen;
+    width:50%;
+    height: 30%;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+.div3{
+    background-color:lightslategray;
+    width:50%;
+    height: 90%;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
